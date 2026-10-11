@@ -1,3 +1,11 @@
-Dress to impress auto farm script v1.0
-created: 12.10.26
-updated: 12.10.26
+# 🎀 Dress to Impress Autofarm Script
+
+**Author:** DenisProda
+**Version:** 1.0.0
+**Last update:** 12.10.26
+
+### Features
+
+* Auto Farm
+* Anti AFK
+* Collect All Cash
